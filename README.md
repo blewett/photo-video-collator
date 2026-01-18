@@ -1,5 +1,5 @@
 # photo-video-collator using python and tkinter
-This is a system for collecting image and video files on Linux and displaying and managing them for use with Linux, Apple, and Microsoft.  It is common for people to have a large number of photos and videos that have cumulated on our computing systems over the years.
+This is a system for collecting image and video files on Linux and displaying and managing them for use with Linux, Apple, and Microsoft.  It is common for people to have a large number of photos and videos that have accumulated on our computing systems over the years.
 
 This system allows one to create USB flash drives of the collated photos and videos that may be shared, for example among family members.  The photos and  videos are arranged in directories by year and month.  As the USB drives may be formatted as NTFS these USB drives may be used on Linux, Apple, and Microsoft windows machines.  Each of those systems have native file browsers that can be used to browse through the collated images.
 
